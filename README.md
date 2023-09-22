@@ -1,5 +1,5 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-# Projeto: Pizzas Raio 
+# Projeto: Pizza
 
 # Grupo: Ah!
 
