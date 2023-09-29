@@ -39,7 +39,11 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+Pizza-express possui um problema de entrega e a falta de um sistema para auxiliar em processar a entrega dos clientes.
+
+O objetivo é fazer com que desde o pedido até a entrega, seja feita em menos de 30 minutos, preferencialriamente entre 10 e 15 minutos. 
+
+Para isso, deve-se criar um software que localize a loja mais perto do cliente, além do sistema de software para opera-lá, e outro sistema de software que ajude com o manejamento dos pedidos dos clientes.
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
