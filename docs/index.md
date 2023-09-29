@@ -46,7 +46,8 @@
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/LimitForm1/ProjetoUML/assets/126169000/379f4504-bb47-4eb0-8346-21835db9f5ac)
+
 
 # Descrição dos casos de uso
 
