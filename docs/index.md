@@ -50,7 +50,7 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Diagrama de casos de uso
 
-![image](https://github.com/LimitForm1/ProjetoUML/assets/126169000/379f4504-bb47-4eb0-8346-21835db9f5ac)
+![image](https://github.com/LimitForm1/ProjetoUML/assets/126169000/d8479def-91e1-4f1f-84cd-613aa868e7d0)
 
 
 # Descrição dos casos de uso
