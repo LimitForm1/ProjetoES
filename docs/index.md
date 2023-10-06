@@ -26,9 +26,9 @@ Pizza Raio
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Aluno 1-Mateo Zanette 32335970
+* Aluno 2-André Ferreira de Aguiar 32343647
+* Aluno 3-Rafael Stocco Vieira-32366817
 * Aluno 4
 * Aluno 5
 * Aluno 6
