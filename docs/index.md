@@ -60,7 +60,11 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/911f4f57-69be-4182-aad9-aafc06025830)
+
+![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/326fd8d0-3ada-47aa-ba5e-21aef877a8c3)
+
+![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/6da5b53c-3b25-4690-ad26-37aa97e30c9f)
 
 # Diagrama de classes
 
