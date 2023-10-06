@@ -55,9 +55,6 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Descrição dos casos de uso
 
-![image](https://github.com/LimitForm1/ProjetoUML/assets/126169000/ca7f21e0-d2c5-4c45-8732-4927bc4e21ee)
-![image](https://github.com/LimitForm1/ProjetoUML/assets/126169000/fe6767df-a43e-4f32-b98e-c99e5861165c)
-
 
 # Diagrama de sequencia
 
