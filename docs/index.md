@@ -66,6 +66,10 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 ![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/6da5b53c-3b25-4690-ad26-37aa97e30c9f)
 
+![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/5aa34cd0-ad31-4525-8bdc-60ac0f98efcb)
+
+![image](https://github.com/LimitForm1/ProjetoUML/assets/142834699/4a729c4a-b8da-45f7-bcb6-d0f6c6768878)
+
 # Diagrama de classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
