@@ -73,7 +73,8 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Diagrama de classes
 
-![ClassDiagram](https://github.com/LimitForm1/ProjetoES/assets/126169000/735db160-61b2-4b09-a566-ec6ee93bb52f)
+![ClassDiagram](https://github.com/LimitForm1/ProjetoES/assets/126169000/2d454326-5bfc-4e8d-b442-b13af72e55e9)
+
 
 
 # Diagrama de Componentes
