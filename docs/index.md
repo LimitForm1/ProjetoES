@@ -83,11 +83,14 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Será usada 4 máquinas(hardware) e o software será web e applicativo na linguagem java, porque é preciso uma máquina para hostiar o site do web, outra para hostiar o aplicativo,
+outra para hostiar o API de localização e outra para backup. Aplicativos de pedir comida são eficientes em pedir no celular, mas é bom ter um site na web também, caso o usuário
+queira pedir pelo computador, a linguagem java será usada para comunicar com o sistema de API, além de ter semelhança no código do site de web e do aplicativo.
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![DiagramaImplementacao](https://github.com/LimitForm1/ProjetoES/assets/126169000/8e487429-bcf9-4e4c-84d9-08c5352ca41b)
+
 
 # Referências
 
