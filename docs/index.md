@@ -79,7 +79,8 @@ Para isso, deve-se criar um software que localize a loja mais perto do cliente, 
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/LimitForm1/ProjetoES/assets/142834699/7dd4f513-3b55-4116-82da-a6059d710a9e)
+
 
 # Decisões de arquitetura
 
